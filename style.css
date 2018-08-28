@@ -1,6 +1,7 @@
+
 body{
-    width: 100%;
-    height: 2903px;
+    /* width: 100%; */
+    /* height: 2903px; */
     opacity: 0.9;
     padding: 90px;
     background-image: linear-gradient(147deg, #3023ae, #c86dd7);
@@ -12,17 +13,85 @@ body{
 .progress-button button {
     display: block;
     float: right;
-	margin: 0 auto;
-	padding: 0;
-	width: 250px;
-	height: 70px;
-	border: 2px solid #007bff;
-	border-radius: 40px;
-	background: transparent;
-	color: white;
-	letter-spacing: 1px;
-	font-size: 18px;
-    background: #007bff;	
+    margin: 0 auto;
+    padding: 0;
+    width: 170px;
+    height: 50px;
+    border: 2px solid #007bff;
+    border-radius: 40px;
+    background: transparent;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 18px;
+    background: #007bff;
+	
+}
+.radio1,.radio2,.radio3,.radio4,.radio5{
+    margin: 10px;
+}
+.radio1:checked::after{
+    position: relative;
+    top: 184px;
+    right: 283px;
+    color: black;
+    float: right;
+    width: 581px;
+    text-align: center;
+    line-height: 36px;
+    content: "Salingers family life was further marked by discord afterthe first child was born according to Margarets book Claire felt that her daughter had replaced her in Salingers affections [93] The infant Margaret was sick much of the time, but Salinger,<br>having embraced the tenets of Christian Science, refused to take her to a doctor.[94] According to Margaret,<br>her mother admitted to her years later that she went \"over the edge\" in the winter of 1957 and had made<br>plans to murder her and then commit suicide. Claire had supposedly intended to do it during a trip to New<br York City with Salinger, but she instead acted on a sudden impulse to take Margaret from the hotel and run<br>away. After a few months, Salinger persuaded her to return to Cornis"},{"title":"Last publications and Maynard<br> relationship","content":"\"A red mark meant, if I die before I finish my work, publish this 'as is,' blue<br>meant publish but edit first, and so on.\"[105] A neighbor said that Salinger told him that he had written<br>15 unpublished novels"},{"title":"Legal conflicts","content":"After a flurry of articles and critical reviews<br>of the story appeared in the press, the publication date was pushed back repeatedly before apparently being<br>cancelled altogether. Amazon anticipated that Orchises would publish the story in January 2009, but at the<br>time of his death it was still listed as \currently unavailable\}title:Post-war yearscontentIn<br>1947, the author submitted a short story titled simply \The Bananafish\ to The New Yorker. William Maxwell,<br>";
+}
+.radio2:checked::after{
+    position: relative;
+    top: 137px;
+    right: 283px;
+    color: black;
+    float: right;
+    width: 581px;
+    text-align: center;
+    line-height: 36px;
+    content: "<h5> publications and Maynard relationship</h5>A red mark meant, if I die before I finish my work, publish this 'as is,' blue meant publish but edit first, and so on.\"[105]<br> A neighbor said that Salinger told him that he had written 15 unpublished novels"},{"title":"The Catcher   in the Rye","content":"According to one angry parent's tabulation, 237 instances of \"goddamn,\" 58 uses  of \"bastard\", 31 \"Chrissakes,\" and one incident of flatulence constituted what was wrong with Salinger's book"},{"title":"Marriage and family","content":"Salinger's family life was further marked by discord after   the first child was born; according to Margaret's book, Claire felt that her daughter had replaced her ingaret was sick much of the time, but Salinger, having embraced the tenets of Christian Science, refused to take her to a doctor.[94] According to Margaret, her mother admitted to her years later that she went \"over the edge\" in the winter of 1957 and had made plans to murder her   and then commit suicide. Claire had supposedly intended to do it during a trip to New York City with Salinger,  but she instead acted on a sudden impulse to take Margaret from the hotel and run away. After a few months, Salinger persuaded her to return to Cornis";
+}
+.radio3:checked::after{
+    position: relative;
+    top: 77px;
+    right: 283px;
+    color: black;
+    float: right;
+    width: 581px;
+    text-align: center;
+    line-height: 36px;
+    content: "In 1947, the author submitted a short story titled simply \"The Bananafish\" to The New Yorker. William Maxwell, the magazine's<br>   fiction editor, was impressed enough with \"the singular quality of the story\" that the magazine asked Salinger  to continue revising it. He spent a year reworking it with New Yorker editors and the magazine accepted thestory, now titled \"A Perfect Day for Bananafish\", and published it in the January 31, 1948 issue. "},{"title":"Marriageand family","content":"Salinger's family life was further marked by discord after the first child was born;according to Margaret's book, Claire felt that her daughter had replaced her in Salinger's affections.[93]The infant Margaret was sick much of the time, but Salinger, having embraced the tenets of Christian Science,  refused to take her to a doctor.[94] According to Margaret, her mother admitted to her years later that she   went \"over the edge\" in the winter of 1957 and had made plans to murder her and then commit suicide. Clairehad supposedly intended to do it during a trip to New York City with Salinger, but she instead acted on asudden impulse to take Margaret from the hotel and run away. After a few months, Salinger persuaded her to<br>return to Cornis"},{"title":"The Catcher in the Rye","content":"According to one angry parent's tabulation,";
+}
+.radio4:checked::after{
+       position: relative;
+    top: 10px;
+    right: 283px;
+    color: black;
+    float: right;
+    width: 581px;
+    text-align: center;
+    line-height: 36px;
+    content: "According to one angry parent's tabulation, 237 instances of \"goddamn,\" 58 uses of \"bastard\", 31 \"Chrissakes,\" and   one incident of flatulence constituted what was wrong with Salinger's book"},{"title":"Marriage and family","content":"Salinger's   family life was further marked by discord after the first child was born; according to Margaret's book, Claire ced her in Salinger's affections.[93] The infant Margaret was sick much ofaced the tenets of Christian Science, refused to take her to a doctor.[94]   According to Margaret, her mother admitted to her years later that she went \"over the edge\" in the winter   of 1957 and had made plans to murder her and then commit suicide. Claire had supposedly intended to do it  during a trip to New York City with Salinger, but she instead acted on a sudden impulse to take Margaret from the hotel and run away. After a few months, Salinger persuaded her to return to Cornis"},{"title":"Legal";
+}
+.radio5:checked::after{
+       position: relative;
+    top: -26px;
+    right: 283px;
+    color: black;
+    float: right;
+    width: 581px;
+    text-align: center;
+    line-height: 36px;
+    content: "After a flurry of articles and critical reviews of the story appeared in the press, the publication date was pushed back<br>  repeatedly before apparently being cancelled altogether. Amazon anticipated that Orchises would publish the  story in January 2009, but at the time of his death it was still listed as \"currently unavailable\""},{"title":"The  Catcher in the Rye","content":"According to one angry parent's tabulation, 237 instances of \"goddamn,\" 58 uses of \"bastard\", 31 \"Chrissakes,\" and one incident of flatulence constituted what was wrong with  Salinger's book"},{"title":"Last publications and Maynard relationship","content":"\"A red mark meant, if    I die before I finish my work, publish this 'as is,' blue meant publish but edit first, and so on.\"[105] A neighbor said that Salinger told him that he had written 15 unpublished novels";
+}
+.container-circle{
+    display: flex;
+    z-index: 3;
+} 
+
+.radio1,.radio2,.radio3,.radio4,.radio5{
+    width: 50px;
+    height: 30px;   
 }
 .Company-name{
     color: white;
@@ -32,45 +101,50 @@ body{
     width: 778px;
     height: 169px;
     display: inline-block;
-    position: relative;
-    margin:68px 30% ;
+    /* position: relative; */
+    margin: 68px 30%;
     font-family: Roboto;
-    font-size: 144px;
+    font-size: 119px;
     font-weight: 100;
     font-style: normal;
     font-stretch: normal;
     line-height: normal;
     letter-spacing: normal;
     color: #ffffff;
+    z-index: 1;
 }
   .text{
-      position: relative;
-      left: 22%;
-      width: 1178px;
-      height: 50px;
-      border-radius: 41.5px;
-      background-color: #ffffff;
-      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: -43px;
+    left: 22%;
+    width: 887px;
+    height: 45px;
+    border-radius: 41.5px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  .title-h5{
+      color: white;
   }
   .SEARCH-ICON {
-      position: absolute;
-      right: 0px;
-      padding: 9px;
-      top: 0px;
-      background: #007bff;
-      width: 64px;
-      height: 50px;
-      border-radius: -32px;
-      /* bject-fit: contain; */
-      border-top-right-radius: 17px;
-      border-bottom-right-radius: 19px; 
+    position: absolute;
+    right: 0px;
+    padding: 14px;
+    top: 0px;
+    background: #007bff;
+    width: 64px;
+    height: 45px;
+    border-radius: -32px;
+    border-top-right-radius: 17px;
+    border-bottom-right-radius: 19px;
   }
   .Path-2-Copy {
     position: absolute;
-    top:-126px;
-    left: 1429px;
-    width: 704px;
-    height: 779px;
+    top: -94px;
+    left: 970px;
+    width: 860px;
+    height: 963px;
     object-fit: contain;
     border: solid transparent;
     background-image: linear-gradient(138deg, #3023ae, #c86dd7);
@@ -79,13 +153,14 @@ body{
   }
   .Path-2 {
     position: absolute;
-    left: -31px;
-    top: -34px;
+    left: -221px;
+    top: -80px;
     width: 976px;
-    height: 1080px;
+    height: 1243px;
     object-fit: contain;
     background-image: linear-gradient(138deg, #3023ae, #c86dd7);
     background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
+    z-index: 0;
     z-index: -1;
   }
   #a,#b,#c,#d,#e{
@@ -96,39 +171,41 @@ body{
 }
 a span{
     display: block;
-    width: 20px;
-    height: 20px;
+    width: 37px;
+    background: rgba(211, 211, 211, 0.952);
+    text-align: center;
+    height: 30px;
     border-radius: 50%;
     border: 1px solid white;
-    margin-top: -110px;
 }
 a{
     margin: -2px;
 }
-.dd:active{
+/* .dd:active{
     border:2px solid red;
     
-}
+} */
 .circle{
     float: right;
-    margin-top: -177px;
+    margin-top: -225px;
+    /* padding: 19px; */
 }
 .texts{
     text-align: center;
+    margin-left: 10px;
+    margin-top: -392px;
+
 }
-li{
+.item item-text{
     margin-top: 4px;
     margin: 30px;
-}
-.checkmark{
-    margin: 3px;
 }
 .Rectangle-5-Copy-3 {
     position: absolute;
     right: -14px;
     top: 619px;
     width: 904px;
-    height: 1243px;
+    height: 1269px;
     object-fit: contain;
     background-color: linear-gradient(138deg, #3023ae, #c86dd7);
     /* background-color: var(--white); */
@@ -138,47 +215,49 @@ li{
   .Rectangle-5-Copy-2 {
     position: absolute;
     left: -183px;
-    top: 927px;
-    width: 1519px;
-    height: 1435px;
+    top: 770px;
+    width: 900px;
+    height: 1316px;
     object-fit: contain;
     background-color: linear-gradient(138deg, #3023ae, #c86dd7);
     /* background-color: var(--white); */
     box-shadow: rgba(0, 0, 0, 0.5);
-    z-index: -1;
+    z-index: 1;
   }
   .Group-17 {
     width: 154px;
     height: 154px;
     object-fit: contain;
     position: absolute;
-    left: 1049px;
-    top: 1308px;
-    width: 154px;
+    left: 653px;
+    top: 1257px;
+    width: 122px;
     height: 154px;
     object-fit: contain;
+    z-index: 2;
   }
   .list-1{
     position: relative;
-    top: 101px;
-    left: 278px; 
+    top: 524px;
+    left: 0px;
     font-size: 36px;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
-    line-height: normal;
+    line-height: 35px;
     letter-spacing: normal;
     color: #00a9ff;
+    z-index: 3;
   }
   .list-2{
+      display: block;
     position: relative;
-    left: 1294px;
-    top: -525px;
-
+    left: 831px;
+    top: 87px;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
-    line-height: normal;
+    line-height: 38px;
     letter-spacing: normal;
     color: #00a9ff;
   }
@@ -193,26 +272,29 @@ li{
   }
   .Path-2-2-Copy{
     position: relative;
-    height: 329px;
-    width: 679px;
-    top: -186px;
-    right: -1423px;
+    height: 270px;
+    width: 506px;
+    top: -118px;
+    right: -955px;
+    z-index: -2;
     
   }
   .Path-2-2-No{
     position: relative;
-    width: 1407px;
-    height: 391px;
-    top: -581px;
+    width: 913px;
+    height: 364px;
+    top: -93px;
     left: -118px;
-    z-index: -14;
+
   }
   .container-3{
-      background-color: #3023ae;
-      margin-top: -585px;
+    background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+
+      margin-top: -585pxpx;
       position: absolute;
       right: 0;
       left: 0;
+      top: 1942px;
       height: 500px;
   }
   .title-3{
@@ -224,33 +306,33 @@ li{
     color: white;
     text-align: center;
   }
-  .row-number{
-      display: flex;
-      justify-content: center;
-  }
-  .link-item-number{
-      width: 50px;
-      height: 50px;
-      border-radius: 50%;
-      background-color: aliceblue;
-      border: 2px solid black;
-      color: #00a9ff;
-     text-align: center;
-     list-style: none;
-  }
+.circles-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 385px;
+}
+.checkmark {
+    margin: 14px;
+}
+.checkmark:hover{
+    border: #007bff;
+    background: #00a9ff;
+    color: white;
+}
+
   .container-4{
-    width: 117%;
+    width: 120%;
     position: relative;
-    top: -88px;
-    left: -216px;
+    top: 375px;
+    left: -113px;
     background-color: black;
-    height: 350px;
+    height: 357px;
     box-sizing: border-box;
   }
 .end-1{
-    padding: 30px;
-    margin-left: 100px;
-    margin-right: 147px;
+    margin-top: 90px;
+    margin-left: 0px;
+    margin-right: 190px;
     float: right;
 }
 .end{
@@ -262,227 +344,480 @@ li{
     color: white;
 }
 
-@media screen and (max-width: 1350px)  {
+
+@media screen and (max-width: 1400px)  {
     /* CSS Styles */
-    /* .menuuuu-1{
-        display: inline;
-        border: 33px solid black;
-        
-    } */
-}
-
-/* 1010px Screen */
-@media screen and (max-width: 1010px) {
-}
-
-    /*800px Screen */
-@media screen and (max-width: 980px) {
-
-}
-
-/* 640px Screen */
-@media  (max-width: 700px) {
-    body{
-        width: 100%;
-        height: 2903px;
-        opacity: 0.9;
-        padding: 24px;
-        background-image: linear-gradient(147deg, #3023ae, #c86dd7);
-    }
-    #h4{
-        font-size: 40px;
-        text-align: center;
-        display: inline;
-    }
-    .menuuuu-1{
-       /* display: inline;
-       float: right; */
-    }
-    .progress-button button {
-         position: relative;
-         margin-left: 950px;
-         top:180px;
-    }
-    .Company-name{
-      text-align: center;
-    }
-    #CryptoWorld {
-        position: relative;
-        top: 90px;
-        right: 70px;
-    }
-    .text{
-        position: relative;
-        left: 18%;
-        width: 800px;
-        height: 50px;
-        top: 92px;
-        padding: 40px;
-        border-radius: 41.5px;
-        background-color: #ffffff;
-        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
-    }
-    .SEARCH-ICON {
-        position: absolute;
-        right: 0px;
-        padding: 21px;
-        top: -1px;
-        background: #007bff;
-        width: 74px;
-        height: 81px;
-        border-radius: -32px;
-        border-top-right-radius: 17px;
-        border-bottom-right-radius: 19px;
-    }
     .Path-2-Copy {
         position: absolute;
-        top: 2px;
-        left: 534px;
-        width: 704px;
-        height: 497px;
+        top: -94px;
+        left: 830px;
+        width: 860px;
+        height: 963px;
         object-fit: contain;
         border: solid transparent;
         background-image: linear-gradient(138deg, #3023ae, #c86dd7);
         background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
         z-index: -1;
-      z-index: -1;
     }
     .Path-2 {
         position: absolute;
-        left: -346px;
-        top: -35px;
-        width: 1044px;
-        height: 548px;
+        left: -298px;
+        top: -80px;
+        width: 976px;
+        height: 1243px;
         object-fit: contain;
         background-image: linear-gradient(138deg, #3023ae, #c86dd7);
         background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
+        z-index: 0;
         z-index: -1;
-      z-index: -1;
     }
-    #a,#b,#c,#d,#e{
+    #CryptoWorld {
+        width: 778px;
+        height: 169px;
+        display: inline-block;
+        /* position: relative; */
+        margin: 70px 23%;
+        font-family: Roboto;
+        font-size: 119px;
+        font-weight: 100;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        z-index: 1;
+    }
+    .circle {
+        float: right;
+        margin-top: -225px;
+        /* padding: 16px; */
+        /* margin-right: 106px; */
+    }
+    .text {
+        position: relative;
+        top: -43px;
+        left: 18%;
+        width: 788px;
+        height: 45px;
+        border-radius: 41.5px;
+        background-color: #ffffff;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+        z-index: 1;
+    }
+    texts {
+        text-align: center;
+        margin-left: 121px;
+    }
+    .container-3 {
+        background-color: #3023ae;
+        margin-top: -585pxpx;
+        position: absolute;
+        right: 0;
+        left: 0;
+        top: 1897px;
+        height: 500px;
+    }
+    .container-4 {
+        width: 129%;
+        position: relative;
+        top: 59px;
+        left: -113px;
+        background-color: black;
+        height: 357px;
+        box-sizing: border-box;
+    }
+    .container-3 {
+        background-color: #3023ae;
+        margin-top: -585pxpx;
+        position: absolute;
+        right: 0;
+        left: 0;
+        top: 1892px;
+        height: 500px;
+    }
+    .end-1 {
+        margin-top: 90px;
+        margin-left: -67px;
+        margin-right: 190px;
+        float: right;
+    }
+    .Path-2-2-No {
+        position: relative;
+        width: 913px;
+        height: 364px;
+        top: -428px;
+        left: -118px;
+        z-index: -14;
+    }
+    .Path-2-2-Copy {
+        position: relative;
+        height: 270px;
+        width: 506px;
+        top: -69px;
+        right: -955px;
+        z-index: -2;
+    }
+}
+/* 1200px Screen */
+@media screen and (max-width: 1200px) {
+  .circle{margin-right: -62px;}
+     .link-item {
+        font-size: 16px;
+        color: black;
+    }
+    .Rectangle-5-Copy-3 {
+        position: absolute;
+        right: -14px;
+        top: 708px;
+        width: 683px;
+        height: 1071px;}
+        .Rectangle-5-Copy-2 {
+            position: absolute;
+            left: -183px;
+            top: 842px;
+            width: 849px;
+            height: 1009px;
+        }
+        .Path-2-2-Copy {
+            position: relative;
+            height: 314px;
+            width: 506px;
+            top: -183px;
+            right: -779px;
+        }
+        .Path-2-2-No {
+            position: relative;
+            width: 913px;
+            height: 408px;
+            top: -467px;
+            left: -118px;
+            z-index: -14;
+        }
+        .container-4 {
+            display: none;
+        }
+  
+}
+ 
+@media screen and (max-width: 1390px) {.container-4 {
+    display: none;
+
+}}
+/* 1300px Screen */
+@media screen and (max-width: 1300px) {
+    .list-2 {
+        position: relative;
+        left: 705px;
+    }
+    .container-4 {
         display: none;
     }
-    #a:target,#b:target,#c:target,#d:target,#e:target{
-      display: block;
-  }
-  a span{
-      display: block;
-      width: 20px;
-      height: 20px;
-      border-radius: 50%;
-      border: 1px solid white;
-      margin-top: -110px;
-  }
-  a{
+    .radio1:checked::after {right: 160px;}
+    .radio2:checked::after {right: 166px;}
+    .radio3:checked::after {right: 177px;}
+    .radio4:checked::after {right: 188px;}
+    .radio5:checked::after {right: 199px;}
+}
+/* 1200px Screen */
+/* @media screen and (max-width: 1200px) {
+ 
 
-  }
-  .dd:active{
+} */
 
-      
-  }
-  .circle{
+    /*1000px Screen */
+@media screen and (max-width: 1000px) {
+    .item-text{
+        text-align: center;
+        margin-top: -312px;
+        margin-right: 107px;
+    }
+   .textli{
+    font-size: 11px;
+    font-family: sans-serif;
+    padding: 43px;
+   }        
+    #CryptoWorld {
+        width: 778px;
+        height: 169px;
+        display: inline-block;
+        /* position: relative; */
+        margin: 70px 33%;
+        font-family: Roboto;
+        font-size: 84px;
+        font-weight: 100;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        z-index: 1;
+    }
+    .Path-2-Copy {
+        position: absolute;
+        top: -94px;
+        left: 725px;
+        width: 860px;
+        height: 963px;
+        object-fit: contain;
+        border: solid transparent;
+        background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+        background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
+        z-index: -1;
+    }
+
+   .Path-2 {
+    position: absolute;
+    left: -408px;
+    top: -80px;
+    width: 976px;
+    height: 1243px;
+    object-fit: contain;
+    background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+    background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
+    z-index: 0;
+    z-index: -1;
+}
+.text {
+    position: relative;
+    top: -112px;
+    left: 29%;
+    width: 542px;
+    height: 45px;
+    border-radius: 41.5px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+.texts {
+    text-align: center;
+    margin-left: 137px;
+    margin-top: -97px;
+}
+.circle {
     display: flex;
-    margin-top: 546px;
-  }
-  .texts{
-      text-align: center;
-  }
-  li{
+  position: relative;
+  right: 209px;
+  top: 421px;
+}
+.checkmark {
+    margin: 11px;
+}
+#a,#b,#c,#d,#e{
+    font-size: 10px;
+}
+.list-1 {
+    position: relative;
+    top: 555px;
+    left: -32px;
+}
+.list-2 {
+    position: relative;
+    left: 547px;
+    top:157px;
+}
+    .Group-17 {
+        width: 154px;
+        height: 154px;
+        position: absolute;
+        left: 563px;
+        top: 1165px;
+        width: 78px;
+        height: 154px;
      
-      
-  }
-  .checkmark{
-    display: inline-block;
-    margin: 5px;
-    width: 50px;
-    height: 50px;
-    border: 2px solid black;
-  }
-  .Rectangle-5-Copy-3 {
-      /* position: absolute;
-      right: -14px;
-      top: 619px;
-      width: 904px;
-      height: 1243px;
-      object-fit: contain;
-      background-color: linear-gradient(138deg, #3023ae, #c86dd7);
-
-      box-shadow: 4px 0 rgba(1, 0, 0, 0.5);
-      z-index: -1; */
+    }
+    .Rectangle-5-Copy-3 {
+        position: absolute;
+        right: -47px;
+        top: 708px;
+        width: 683px;
+        height: 1071px;
     }
     .Rectangle-5-Copy-2 {
-      /* position: absolute;
-      left: -183px;
-      top: 927px;
-      width: 1519px;
-      height: 1435px;
-      object-fit: contain;
-      background-color: linear-gradient(138deg, #3023ae, #c86dd7);
+        position: absolute;
+        left: -224px;
+    }
+    .Path-2-2-No {
+        position: relative;
+        width: 639px;
+        height: 371px;
+        top: -450px;
+        left: -118px;
+        z-index: -14;
+    }
+    .Path-2-2-Copy {
+        position: relative;
+        height: 314px;
+        width: 506px;
+        top: -76px;
+        right: -710px;
+    }
+    .container-3 {
+        position: absolute;
+        right: 0;
+        left: 0;
+        top: 1790px;
+    }
+    .end-1 {
+        margin-left: -102px;
+        margin-right: 128px;
+    }
+    .container-4 {
+        width: 142%;
+        top: 32px;
+    }
+    .radio1:checked::after {
+        right: -506px;
+        top: -395px;
+    }
+    .radio2:checked::after {
+        right: -423px;
+        top: -395px;
+    }
+    .radio3:checked::after {
+        right: -333px;
+        top: -395px;
+    }
+    .radio4:checked::after {
+        right: -242px;
+        top: -395px;
+    }
+    .radio5:checked::after {
+        right: -155px;
+        top: -395px;
+    }
+    .radio1{margin-top: 100px}
+    .radio2{margin-top: 100px}
+    .radio3{margin-top: 100px}
+    .radio4{margin-top: 100px}
+    .radio5{margin-top: 100px}
+}
 
-      box-shadow: rgba(0, 0, 0, 0.5); */
-      z-index: -1;
+@media  screen and (max-width: 1160px)  and (min-device-width: 600px) {
+    .circle {
+        margin-right: -89px;
+    }
+}
+
+/* 880px Screen */
+@media  screen and (max-width: 880px) {
+    .circle {right: 183px}
+    .Path-2 {left: -460px;}
+    #CryptoWorld { margin: 70px 18%;}
+    .text {left: 14%;}
+    .Path-2-Copy {left: 627px;}
+    .texts {margin-left: 42px;}
+}
+/* 800px Screen */
+@media  screen and (max-width: 800px) and (min-device-width: 600px){
+    .list-1 {left: 140px;}
+    .Rectangle-5-Copy-3 {
+        position: absolute;
+        right: -50px;
+        top: 617px;
+        width: 788px;
+        height: 1071px;
+    }
+    .menuuuu-1 {
+        display: inline;
+        position: relative;
+        right: -53px;
+        top: -9px;
+    }
+    #h4 {
+        font-size: 34px;
+        margin-left: -107px;
+    }
+    .progress-button button {margin-top: 120px;}
+    .list-1 {
+        position: relative;
+        top: 1146px;
+        left: 50px;
+    }
+    .list-2 {
+        position: relative;
+        left: 194px;
+        top: 36px;
+    }
+
+    .progress-button button {
+        position: relative;
+        top: 109px;
+        left: -37px;
+}
+.Path-2 {
+    position: absolute;
+    left: -408px;
+    top: -80px;
+    width: 952px;
+    height: 644px;
+}
+.Path-2-Copy {
+    position: absolute;
+    top: -94px;
+    left: 280px;
+    width: 860px;
+    height: 582px;
+}
+    #CryptoWorld {
+        margin: 70px 12%;
+        margin-top: 165px;
+        font-size: 93px;
+    }
+    .progress-button button {
+        margin-top: 120px;
+        width: 238px;
+        height: 68px;
+        text-align: 44px;
+    }
+    .text {left: 9%;}
+    .Rectangle-5-Copy-3 {
+        top: 937px;
+        width: 855px;
+        background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+        background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
+    }
+    .Rectangle-5-Copy-2 {
+        position: absolute;
+        left: -44px;
+        top: 1762px;
+        background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+        background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
     }
     .Group-17 {
-      /* width: 154px;
-      height: 154px;
-      object-fit: contain;
-      position: absolute;
-      left: 1049px;
-      top: 1308px;
-      width: 154px;
-      height: 154px;
-      object-fit: contain; */
+        width: 154px;
+        height: 154px;
+        position: absolute;
+        left: 411px;
+        top: 1694px;
+        width: 123px;
+        height: 175px;
     }
-    .list-1{
-   
+    .container-4{display: none;}
+    .container-3 { top: 2791px;}
+    .Path-2-2-Copy {
+        position: relative;
+        height: 314px;
+        width: 506px;
+        top: 851px;
+        right: -500px;
     }
-    .list-2{
-  
+    .Path-2-2-No {
+        position: relative;
+        width: 458px;
+        height: 312px;
+        top: 542px;
+        left: -118px;
+        z-index: -14;
+        background-image: linear-gradient(138deg, #3023ae, #c86dd7);
+        background-image: linear-gradient(138deg, var(--sapphire), var(--lavender-pink));
     }
-    .link-item{
-   
-    }
-    .Path-4-Copy-7 {
- 
-    }
-    .Path-2-2-Copy{
-   
-      
-    }
-    .Path-2-2-No{
-  
-    }
-    .container-3{
-       
-    }
-    .title-3{
-   
-    }
-    .title-4{
-     
-    }
-    .row-number{
-   
-    }
-    .link-item-number{
+}
+@media screen  and (min-device-width: 700px){
     
-    }
-    .container-4{
-
-    }
-  .end-1{
-  
-  }
-  .end{
-      
-  }
-  .Pend{
-      
-  }
 }
 
 /* Smartphones and iPhones */
-@media screen and (min-device-width: 380px) and (min-device-width: 600px){
+@media screen and (min-device-width: 600px) and (min-device-width: 380px){
     /* CSS Styles */
 
 }
